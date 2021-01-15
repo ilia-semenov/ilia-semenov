@@ -8,4 +8,4 @@
 - 📈 My professional area of expertise is Cloud Cost Management (aka [FinOps](https://www.finops.org/what-is-finops/)) - I can build an in-house enterprise-grade AWS cost management solution.
 - 🧘‍♂️ I am all into bodybuilding and yoga.
 
-Want to know more? Check out my [personal webpage](https://iliasemenov.com).
+Want to know more? Check out my [personal webpage](https://www.iliasemenov.com).
