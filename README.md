@@ -1,3 +1,4 @@
+<img align="right" src="https://github.com/ilia-semenov/ilia-semenov/raw/main/assets/surfboard-blue-adj.svg" width="200" height="545.1" alt="Blue surfboard" />
 
 ### Hey there, I'm Ilia
 
