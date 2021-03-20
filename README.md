@@ -6,7 +6,7 @@
 
 - 🚀 I'm a co-founder at [Cloudthread](https://cloudthread.io) - we are making cloud cost metrics digestable for engineering teams.
 - 🧬 Previously I was a technical co-founder at [cogniDNA](https://cognidna.com) - the futuristic fun project discovering applications of DNA-testing within an education domain.
-- 🚗 Even before that I was a Tech Lead at [Lyft](https://lyft.com): for 4 years I was leading Lyft's Finance/FinOps Data Engineering team.
+- 🚗 Even before that I was a Tech Lead at [Lyft](https://lyft.com): for 4 years I was leading Lyft's Finance/FinOps Data Engineering team, here is the [video of me presenting my work at AWS re:Invent 2019](https://youtu.be/ChupgIbZr5Q?t=2479).
 - 📈 My professional area of expertise is Cloud Cost Management (aka [FinOps](https://www.finops.org/what-is-finops/)) - I specialize in building enterprise-grade cloud cost management solutions.
 - 🧘‍♂️ I am all into bodybuilding and yoga.
 
