@@ -1,6 +1,8 @@
-<img align="right" src="https://github.com/ilia-semenov/ilia-semenov/raw/main/assets/surfboard-blue-adj.svg" width="200" height="545.1" alt="Blue surfboard" />
+<img align="right" src="https://github.com/ilia-semenov/ilia-semenov/raw/main/assets/surfboard-blue-adj.svg" width="150" height="500" alt="Blue surfboard" />
 
 ### Hey there, I'm Ilia (I-L-I-A, [[ɪlʲˈja]](https://en.wikipedia.org/wiki/Ilya))
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-2867B2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/iliavsemenov)
 
 **I'm a California-based entrepreneur with Russia-based soul, Data Scientist turned Data Engineer turned Product Leader.**
 
