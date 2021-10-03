@@ -15,5 +15,4 @@
 Want to know more? Check out my [personal webpage](https://www.iliasemenov.com).
 
 
-***Btw, at the moment I am learning to surf in San Diego and that is DOPE!!!***
 🏄‍♂️🤙
